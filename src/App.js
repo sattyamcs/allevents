@@ -4,7 +4,7 @@ import AllEvents from './Components/AllEvents'
 import {
   BrowserRouter as Router,
   Route,
-  Routes
+  Routes,
 } from 'react-router-dom'
 import LoadingBar from 'react-top-loading-bar'
 
@@ -16,7 +16,6 @@ export class App extends Component {
   setProgress=(progress)=>{
     this.setState({progress:progress})
   }
-
   render() {
     return (
       <Router>

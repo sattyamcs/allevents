@@ -16,5 +16,6 @@ About the Project>>>
 
 Libraries used>>>
 1.React router
-2.Top-loading-bar >> That will be seen at the top when page is Loading
+2.Top-loading-bar >> That will be seen at the top when page is Loading.
 3.Spinner as a components that shows a loading spinner.
+4. Framer for adding transition in routes
