@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/allevents/static/css/main.f803d336.css",
+    "main.js": "/allevents/static/js/main.8e32dcbf.js",
+    "static/js/787.a2e840b3.chunk.js": "/allevents/static/js/787.a2e840b3.chunk.js",
+    "static/media/spinner.gif": "/allevents/static/media/spinner.7da1c38fe681b6f8d030.gif",
+    "index.html": "/allevents/index.html",
+    "main.f803d336.css.map": "/allevents/static/css/main.f803d336.css.map",
+    "main.8e32dcbf.js.map": "/allevents/static/js/main.8e32dcbf.js.map",
+    "787.a2e840b3.chunk.js.map": "/allevents/static/js/787.a2e840b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f803d336.css",
+    "static/js/main.8e32dcbf.js"
+  ]
+}
