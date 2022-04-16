@@ -18,12 +18,12 @@ export class AllEvents extends Component {
         // console.log("Testing Constructor")
         this.state = {
             articles: [],
+
             loading: false,
         }
         // For showing the title as with the property
         document.title = `${this.props.category}-Newsapp`;
     }
-
     // Now fetching data form API using compountDidMount
     async componentDidMount() {
         // this will run at the last after the render runs

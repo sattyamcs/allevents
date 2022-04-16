@@ -2,8 +2,6 @@ import React, { Component } from 'react';
 import '../App.css';
 
 export class Events extends Component {
-
-   
     render() {
         let{title,imageUrl,eventUrl,city,date}=this.props; //Props in class used like destructring as we seen in js
         return (
