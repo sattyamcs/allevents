@@ -47,7 +47,7 @@ export class AllEvents extends Component {
             <AnimatedPage>
                 <div>
                     <div className="container my-3">
-                        <h3 className="text-center" style={{ margin: "35px 0px" }}>{document.title = `Discover Best Of Online Events [${this.props.category}]`}</h3>
+                        <h3 className="text-center" style={{ margin: "35px 0px" }}>{document.title = `Discover Best Of Online Events : [${this.props.category}]`}</h3>
                         {/* When loading will true it shows sppinner */}
                         {this.state.loading && <Spinner />}
 

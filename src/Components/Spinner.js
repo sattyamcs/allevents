@@ -4,7 +4,7 @@ import React, { Component } from 'react'
 export class Spinner extends Component {
     render() {
         return (
-            <div className="text-center"  >
+            <div className='app'>
                 <div className="loader-wrapper">
                     <div className="loader">
                          <div className='loader loader-inner'></div>
